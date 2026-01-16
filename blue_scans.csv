@@ -1,0 +1,5 @@
+Device_Name,MAC_Address,RSSI_dBm,Est_Distance_m,Status
+DESKTOP-2OFONJ2,73:75:52:ED:3F:53,-65,2.0,Connectable
+IOTBT0DE,08:65:F0:7E:E0:DE,-90,35.48,Connectable
+Apple_Device,44:84:A7:98:AB:71,-83,15.85,Connectable
+Unknown_Beacon,3B:65:D4:4A:C2:D8,-100,112.2,Non-Connectable
